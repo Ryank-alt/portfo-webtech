@@ -25,4 +25,5 @@ body{
     .item:nth-child(odd){
     background:#2b2b2b;}
     .item:last-child{
-        border:none; }
+        border:none;
+        }
